@@ -98,7 +98,7 @@ src/
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/votre-username/micro-commerce-frontend.git
+git clone https://github.com/A-Hamdi1/micro-commerce-frontend.git
 cd micro-commerce-frontend
 ```
 
