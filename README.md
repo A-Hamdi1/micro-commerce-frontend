@@ -177,7 +177,3 @@ docker run -p 80:80 micro-commerce-frontend
 ## Support
 
 Pour toute question ou problème, veuillez créer une issue dans le repository GitHub.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
